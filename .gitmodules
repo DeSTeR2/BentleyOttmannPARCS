@@ -1,0 +1,3 @@
+[submodule "parcs-net"]
+	path = parcs-net
+	url = https://github.com/AndriyKhavro/Parcs.NET.git
